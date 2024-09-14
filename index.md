@@ -1,13 +1,10 @@
-# markdown practice 
-## this is an h2 header
-### "h3"
-#### h4
-##### h5
-###### h6 
+ 
+## My Mastadon Social Link
+I'm @an5189@mstdn.social on #Mastodon! Come follow me at https://mstdn.social/@an5189
 
-I practiced markdown by learning how to make different headers.  
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 added image to index file
 
